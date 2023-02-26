@@ -1,0 +1,12 @@
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\bin\Debug\net6.0\LAB1_V4_S2_CLASSES.deps.json
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\bin\Debug\net6.0\LAB1_V4_S2_CLASSES.dll
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\bin\Debug\net6.0\LAB1_V4_S2_CLASSES.pdb
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.csproj.AssemblyReference.cache
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.AssemblyInfoInputs.cache
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.AssemblyInfo.cs
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.dll
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\refint\LAB1_V4_S2_CLASSES.dll
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\LAB1_V4_S2_CLASSES.pdb
+C:\Users\jur_chik\Desktop\wpf_test\LAB1_V4_S2\LAB1_V4_S2_CLASSES\obj\Debug\net6.0\ref\LAB1_V4_S2_CLASSES.dll
